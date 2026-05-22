@@ -5,7 +5,7 @@
 https://github.com/infinition/waveshare-watch-rs
 
 #demo
-![demo](img/1.png)
+![demo](./img/1.png)
 
 ![demo](../img/2.png)
 
