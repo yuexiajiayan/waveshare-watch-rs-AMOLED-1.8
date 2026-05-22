@@ -1,5 +1,5 @@
 # waveshare-watch-rs-AMOLED-1.8
-使用chatgpt 适配 的 https://docs.waveshare.net/ESP32-S3-Touch-AMOLED-1.8/ 
+使用chatgpt coding适配 的 https://docs.waveshare.net/ESP32-S3-Touch-AMOLED-1.8/ 
 
 #source code form （same build ）
 https://github.com/infinition/waveshare-watch-rs
